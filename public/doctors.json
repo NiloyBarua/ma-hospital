@@ -1,0 +1,165 @@
+{
+    "doctors": [
+      {
+        "doctor_id": "D001",
+        "doctor_name": "Dr. John Doe",
+        "doctor_image": "../src/assets/female-doctor-avatar-clipart-icon-260nw-2053928837.webp",
+        "doctor_degree": "MBBS, MD",
+        "doctor_specialist": "Cardiologist",
+        "visiting_hour": "Mon-Fri: 10:00 AM - 5:00 PM"
+      },
+      {
+        "doctor_id": "D002",
+        "doctor_name": "Dr. Jane Smith",
+        "doctor_image":"../src/assets/female-doctor-avatar-clipart-icon-260nw-2053928837.webp",
+        "doctor_degree": "MBBS, MS",
+        "doctor_specialist": "Neurologist",
+        "visiting_hour": "Mon-Fri: 9:00 AM - 4:00 PM"
+      },
+      {
+        "doctor_id": "D003",
+        "doctor_name": "Dr. Michael Johnson",
+        "doctor_image": "../src/assets/female-doctor-avatar-clipart-icon-260nw-2053928837.webp",
+        "doctor_degree": "MBBS, DNB",
+        "doctor_specialist": "Orthopedic",
+        "visiting_hour": "Mon, Wed, Fri: 11:00 AM - 2:00 PM"
+      },
+      {
+        "doctor_id": "D004",
+        "doctor_name": "Dr. Emily Davis",
+        "doctor_image": "../src/assets/female-doctor-avatar-clipart-icon-260nw-2053928837.webp",
+        "doctor_degree": "MBBS, MS",
+        "doctor_specialist": "Gynecologist",
+        "visiting_hour": "Mon-Sat: 9:00 AM - 6:00 PM"
+      },
+      {
+        "doctor_id": "D005",
+        "doctor_name": "Dr. William Brown",
+        "doctor_image": "../src/assets/female-doctor-avatar-clipart-icon-260nw-2053928837.webp",
+        "doctor_degree": "MBBS, PhD",
+        "doctor_specialist": "Pediatrician",
+        "visiting_hour": "Tue-Sun: 10:00 AM - 3:00 PM"
+      },
+      {
+        "doctor_id": "D006",
+        "doctor_name": "Dr. Ava Wilson",
+        "doctor_image":"../src/assets/female-doctor-avatar-clipart-icon-260nw-2053928837.webp",
+        "doctor_degree": "MBBS, MD",
+        "doctor_specialist": "Dermatologist",
+        "visiting_hour": "Mon-Fri: 12:00 PM - 5:00 PM"
+      },
+      {
+        "doctor_id": "D007",
+        "doctor_name": "Dr. Lucas Miller",
+        "doctor_image": "../src/assets/female-doctor-avatar-clipart-icon-260nw-2053928837.webp",
+        "doctor_degree": "MBBS, DNB",
+        "doctor_specialist": "Psychiatrist",
+        "visiting_hour": "Mon, Wed, Fri: 10:00 AM - 1:00 PM"
+      },
+      {
+        "doctor_id": "D008",
+        "doctor_name": "Dr. Sophia Moore",
+        "doctor_image":"../src/assets/female-doctor-avatar-clipart-icon-260nw-2053928837.webp",
+        "doctor_degree": "MBBS, MD",
+        "doctor_specialist": "Endocrinologist",
+        "visiting_hour": "Tue-Thu: 11:00 AM - 4:00 PM"
+      },
+      {
+        "doctor_id": "D009",
+        "doctor_name": "Dr. James Taylor",
+        "doctor_image": "../src/assets/female-doctor-avatar-clipart-icon-260nw-2053928837.webp",
+        "doctor_degree": "MBBS, MS",
+        "doctor_specialist": "Surgeon",
+        "visiting_hour": "Mon-Sat: 9:00 AM - 5:00 PM"
+      },
+      {
+        "doctor_id": "D010",
+        "doctor_name": "Dr. Isabella Anderson",
+        "doctor_image": "../src/assets/female-doctor-avatar-clipart-icon-260nw-2053928837.webp",
+        "doctor_degree": "MBBS, DNB",
+        "doctor_specialist": "Ophthalmologist",
+        "visiting_hour": "Mon-Fri: 10:00 AM - 6:00 PM"
+      },
+      {
+        "doctor_id": "D011",
+        "doctor_name": "Dr. Elijah Thomas",
+        "doctor_image":"../src/assets/female-doctor-avatar-clipart-icon-260nw-2053928837.webp",
+        "doctor_degree": "MBBS, MD",
+        "doctor_specialist": "Gastroenterologist",
+        "visiting_hour": "Mon, Wed: 9:00 AM - 2:00 PM"
+      },
+      {
+        "doctor_id": "D012",
+        "doctor_name": "Dr. Mia Jackson",
+        "doctor_image": "../src/assets/female-doctor-avatar-clipart-icon-260nw-2053928837.webp",
+        "doctor_degree": "MBBS, MS",
+        "doctor_specialist": "ENT Specialist",
+        "visiting_hour": "Tue-Sat: 8:00 AM - 1:00 PM"
+      },
+      {
+        "doctor_id": "D013",
+        "doctor_name": "Dr. Daniel White",
+        "doctor_image":"../src/assets/female-doctor-avatar-clipart-icon-260nw-2053928837.webp",
+        "doctor_degree": "MBBS, PhD",
+        "doctor_specialist": "Pulmonologist",
+        "visiting_hour": "Mon-Fri: 10:00 AM - 4:00 PM"
+      },
+      {
+        "doctor_id": "D014",
+        "doctor_name": "Dr. Lily Harris",
+        "doctor_image": "../src/assets/female-doctor-avatar-clipart-icon-260nw-2053928837.webp",
+        "doctor_degree": "MBBS, DNB",
+        "doctor_specialist": "Nephrologist",
+        "visiting_hour": "Mon-Sun: 9:00 AM - 6:00 PM"
+      },
+      {
+        "doctor_id": "D015",
+        "doctor_name": "Dr. Benjamin Clark",
+        "doctor_image": "../src/assets/female-doctor-avatar-clipart-icon-260nw-2053928837.webp",
+        "doctor_degree": "MBBS, MD",
+        "doctor_specialist": "Rheumatologist",
+        "visiting_hour": "Mon-Fri: 8:00 AM - 2:00 PM"
+      },
+      {
+        "doctor_id": "D016",
+        "doctor_name": "Dr. Ella Lewis",
+        "doctor_image": "../src/assets/female-doctor-avatar-clipart-icon-260nw-2053928837.webp",
+        "doctor_degree": "MBBS, MS",
+        "doctor_specialist": "Urologist",
+        "visiting_hour": "Mon-Wed: 10:00 AM - 3:00 PM"
+      },
+      {
+        "doctor_id": "D017",
+        "doctor_name": "Dr. Henry Walker",
+        "doctor_image": "../src/assets/female-doctor-avatar-clipart-icon-260nw-2053928837.webp",
+        "doctor_degree": "MBBS, DNB",
+        "doctor_specialist": "Hematologist",
+        "visiting_hour": "Mon-Fri: 8:30 AM - 5:30 PM"
+      },
+      {
+        "doctor_id": "D018",
+        "doctor_name": "Dr. Charlotte Lee",
+        "doctor_image":"../src/assets/female-doctor-avatar-clipart-icon-260nw-2053928837.webp",
+        "doctor_degree": "MBBS, MD",
+        "doctor_specialist": "Infectious Disease Specialist",
+        "visiting_hour": "Tue-Sat: 9:00 AM - 1:00 PM"
+      },
+      {
+        "doctor_id": "D019",
+        "doctor_name": "Dr. Oliver Scott",
+        "doctor_image":"../src/assets/female-doctor-avatar-clipart-icon-260nw-2053928837.webp",
+        "doctor_degree": "MBBS, DNB",
+        "doctor_specialist": "Plastic Surgeon",
+        "visiting_hour": "Mon, Wed, Fri: 10:00 AM - 4:00 PM"
+      },
+      {
+        "doctor_id": "D020",
+        "doctor_name": "Dr. Zoe Young",
+        "doctor_image":"../src/assets/female-doctor-avatar-clipart-icon-260nw-2053928837.webp",
+        "doctor_degree": "MBBS, PhD",
+        "doctor_specialist": "Radiologist",
+        "visiting_hour": "Mon-Sun: 10:00 AM - 6:00 PM"
+      }
+    ]
+  }
+  
