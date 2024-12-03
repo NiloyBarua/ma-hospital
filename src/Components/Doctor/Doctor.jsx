@@ -1,16 +1,16 @@
 import { Link } from "react-router-dom";
-import Appointments from "../Appointments/Appointments";
-import { useEffect, useRef } from "react";
+
+
 
 const Doctor = ({ doctor }) => {
     const { doctor_id, doctor_name, doctor_degree, doctor_image, doctor_specialist, visiting_hour } = doctor;
     console.log(doctor_id);
 
-    const handleAppointment = (name) => {
-        console.log(name);
+   
+        
         // You can perform any actions here such as setting state or navigating to another page
         // Example: navigate to the Appointments page with name or doctor details as params
-    };
+
 
     return (
         <div className="flex items-center border-2 border-blue-300 text-black p-5 justify-between">
@@ -33,8 +33,7 @@ const Doctor = ({ doctor }) => {
                     <button className="btn btn-primary px-10 text-white rounded-3xl">
                         {/* Pass an anonymous function to onClick */}
                         <Link 
-                            onClick={() => handleAppointment(doctor_name)} 
-                            to={`/appointment/${doctor_id}?name=${encodeURIComponent(doctor_name)}`}>
+                            to={`/appointment/${doctor_id}?id=${doctor_id}`}>
                             Book An Appointment
                         </Link>
                     </button>

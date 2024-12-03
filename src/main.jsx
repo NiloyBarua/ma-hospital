@@ -10,6 +10,8 @@ import Roots from './Roots/Roots.jsx';
 import Home from './Components/Home/Home.jsx';
 import AllDoctors from './Components/AllDoctors/AllDoctors.jsx';
 import Appointments from './Components/Appointments/Appointments.jsx';
+import Confirmation from './Components/Confirmation/Confirmation.jsx';
+
 
 
 
@@ -30,7 +32,11 @@ const router = createBrowserRouter([
       {
         path : `/appointment/:doctor_id`,
         element : <Appointments></Appointments>
-      }
+      },
+     {
+       path : '/confirmation',
+       element:<Confirmation></Confirmation>
+     }
      
     ]
   },

@@ -17,9 +17,9 @@ const Navbar = () => {
             <NavLink to={'./location'}>Locations</NavLink>
         </>
     return (
-        <div className="navbar text-black flex justify-between w-full ">
-            <div className="navbar-start">
-                <div className="dropdown">
+        <div className="navbar text-white bg-blue-950 flex lg:justify-center  w-full ">
+            <div className="justify-left lg:hidden">
+                <div className="dropdown bg-black text-white">
                     <div tabIndex={0} role="button" className="btn btn-ghost lg:hidden">
                         <svg
                             xmlns="http://www.w3.org/2000/svg"
@@ -36,15 +36,15 @@ const Navbar = () => {
                     </div>
                     <ul
                         tabIndex={0}
-                        className="menu menu-sm  dropdown-content rounded-box z-[1] mt-3 w-52 p-2 shadow">
+                        className="menu menu-sm  dropdown-content rounded-box z-[1] mt-3 w-52 p-2 shadow bg-black text-white">
                         {
                             navLinks
                         }
                     </ul>
                 </div>
-                <a className="btn btn-ghost text-xl">Ma General Hospital</a>
+             
             </div>
-            <div className=" hidden lg:flex">
+            <div className=" hidden lg:flex justify-center">
                 <ul className="menu menu-horizontal flex gap-3">
                     {navLinks}
                 </ul>
